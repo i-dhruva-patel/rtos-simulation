@@ -1,4 +1,4 @@
 main.c linguist-language=C
 rtos.c linguist-language=C
 rtos.h linguist-language=C
-
+tools/plot_trace.py linguist-language=Python
